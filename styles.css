@@ -88,7 +88,6 @@ nav ul li a:hover {
     color: white;
     padding: 12px 50px;
     font-size: 18px;
-    border: 1px solid #00ff2a;
     cursor: pointer;
     border-radius: 5px;
     transition: background 0.3s;
@@ -97,6 +96,7 @@ nav ul li a:hover {
 .btn:hover {
     background: #fbfdff;
     color: #0ed122;
+    border: 1px solid #00ff2a;
 }
 
 .scroll-down {
